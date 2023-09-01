@@ -7,6 +7,8 @@ Known Issues:
 
  -Can't access Encore Mode, only Encore themed levels.
 
+ -Puyo Puyo mode crashes upon selecting difficulty.
+
  -Stardust Speedway Act 2's Metal Sonic boss crashes when he enters the room where you launch tiny robo sonics at him. and unfortunately debug mode won't fix this as trying to skip to the final Metal Sonic phase will crash the game as well.
 
  -For some god-forsaken reason, Metallic Madness Act 1 will not boot and just crash the game.
