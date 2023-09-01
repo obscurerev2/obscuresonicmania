@@ -3,7 +3,7 @@ var _cacheFiles = [
 	'RSDKv5.html',
 	'RSDKv5.js',
 	'RSDKv5.wasm',
-  'https://qr.page/g/57qhR6m8O8j'
+  'https://gofile.io/d/Byp4Rn'
 ];
 	
 self.addEventListener('install', (e) => {
