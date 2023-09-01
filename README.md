@@ -13,7 +13,7 @@ Known Issues:
 
  -Oil Ocean Act 2 crashes upon boot.
 
- -For some god-forsaken reason, Metallic Madness Act 1 will not boot and just crash the game.
+ -Metallic Madness Act 1 will not boot and just crash the game.
 
  -Trying to progress in the 4-way section in Titanic Monarch Act 2 will crash the game.
 
