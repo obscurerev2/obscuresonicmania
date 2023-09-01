@@ -15,6 +15,6 @@ Known Issues:
 
  -Metallic Madness Act 1 will not boot and just crash the game.
 
- -Trying to progress in the 4-way section in Titanic Monarch Act 2 will crash the game.
+ -Trying to progress in the 4-way section of Titanic Monarch Act 2 will crash the game.
 
 These are the bugs I've come across so far. If there's any more bugs not listed here or if there's a solution to the above bugs, then make an issue with the bug or solution. (I unfortunately do not know how to edit the actual code this runs on that could fix these bugs.)
