@@ -11,6 +11,8 @@ Known Issues:
 
  -Stardust Speedway Act 2's Metal Sonic boss crashes when he enters the room where you launch tiny robo sonics at him. and unfortunately debug mode won't fix this as trying to skip to the final Metal Sonic phase will crash the game as well.
 
+ -Oil Ocean Act 2 crashes upon boot.
+
  -For some god-forsaken reason, Metallic Madness Act 1 will not boot and just crash the game.
 
  -Trying to progress in the 4-way section in Titanic Monarch Act 2 will crash the game.
