@@ -1,5 +1,5 @@
 # obscuresonicmania
-Sonic Mania on le Web. Press ESC to access dev menu to get to levels.
+Sonic Mania on le Web. Press ESC to access dev menu to get to levels. (if my box.com link stays up, this has a better load time than the vinmannie build.)
 
 Known Issues:
 
