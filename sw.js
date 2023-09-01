@@ -3,7 +3,7 @@ var _cacheFiles = [
 	'RSDKv5.html',
 	'RSDKv5.js',
 	'RSDKv5.wasm',
-  'https://store2.gofile.io/download/84603ff3-50f5-498c-aa3e-283d7b72dc41/Data.rsdk'
+  'https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tangmmv7ytsnwixyo2oq8yzeez8pmd04&file_id=f_1296103886367'
 	
 self.addEventListener('install', (e) => {
 	console.log('[Service Worker] Install');
