@@ -3,7 +3,7 @@ var _cacheFiles = [
 	'RSDKv5.html',
 	'RSDKv5.js',
 	'RSDKv5.wasm',
-  'https://f54.workupload.com/download/gtXNWRuM2eB'
+  'https://f81.workupload.com/download/2K5AVCWz86k'
 ];
 	
 self.addEventListener('install', (e) => {
